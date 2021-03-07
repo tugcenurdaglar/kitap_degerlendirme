@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Kategoriler">
+        <menu>
+            <item android:id="@+id/nav_item_hesap_ayarlari"
+                android:title="Edebiyat Kitapları"
+                android:icon="@drawable/kategori_kitap" />
+            <item android:id="@+id/siparislerim"
+                android:title="Eğitim - Okula Yardımcı Kitaplar"
+                android:icon="@drawable/kategori_kitap"/>
+            <item android:id="@+id/adreslerim"
+                android:title="Gençlik Kitapları"
+                android:icon="@drawable/kategori_kitap"/>
+            <item android:id="@+id/incelenenler"
+                android:title="Kampanyalar"
+                android:icon="@drawable/kategori_kitap"/>
+            <item android:id="@+id/bildirimler"
+                android:title="KPSS Kitapları"
+                android:icon="@drawable/kategori_kitap"/>
+            <item android:id="@+id/fiyatAlarmListesi"
+                android:title="Tarih Kitapları"
+                android:icon="@drawable/kategori_kitap"/>
+            <item android:id="@+id/bizeulasin"
+                android:title="Tüm Kategoriler"
+                android:icon="@drawable/kategori_kitap"/>
+
+        </menu>
+
+
+    </item>
+</menu>

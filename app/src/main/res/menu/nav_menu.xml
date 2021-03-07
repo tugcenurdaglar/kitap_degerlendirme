@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/fiyatAlarmListesi"
+        android:icon="@drawable/alarm"
+        android:title="Fiyat Alarm Listem" />
+    <item
+        android:id="@+id/bizeulasin"
+        android:icon="@drawable/bize_ulasin"
+        android:title="Bize Ulaşın" />
+    <item
+        android:id="@+id/action_degerlendirme"
+        android:icon="@drawable/degerlendirme"
+        android:title="Bizi Değerlendirin" />
+    <item
+        android:id="@+id/hakkinda"
+        android:icon="@drawable/hakkinda"
+        android:title="Uygulama Hakkında" />
+
+
+
+    <!--    <item android:title="">-->
+    <!--        <menu>-->
+    <!--            <item android:id="@+id/siparislerim"-->
+    <!--                android:title="Sparişlerimm"-->
+    <!--                android:icon="@drawable/anasayfa"/>-->
+
+
+    <!--        </menu>-->
+    <!--    </item>-->
+</menu>

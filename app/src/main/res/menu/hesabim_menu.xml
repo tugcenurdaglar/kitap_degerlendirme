@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+ <item android:title="Hesabım">
+     <menu>
+         <item android:id="@+id/nav_item_hesap_ayarlari"
+             android:title="Hesap Ayarları"
+             android:icon="@drawable/hesabim" />
+         <item android:id="@+id/siparislerim"
+             android:title="Siparişlerim"
+             android:icon="@drawable/siparislerim"/>
+         <item android:id="@+id/adreslerim"
+             android:title="Adreslerim"
+             android:icon="@drawable/adreslerim"/>
+         <item android:id="@+id/incelenenler"
+             android:title="Son İncelediğim Ürünler"
+             android:icon="@drawable/incelenenler"/>
+         <item android:id="@+id/bildirimler"
+             android:title="Bildirimler"
+             android:icon="@drawable/bildirimler"/>
+     </menu>
+ </item>
+</menu>

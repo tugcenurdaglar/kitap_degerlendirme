@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_anasayfa"
+        android:icon="@drawable/anasayfa"
+        android:title="Anasayfa"
+        />
+    <item
+        android:id="@+id/action_kategoriler"
+        android:icon="@drawable/kategoriler"
+        android:title="Kategoriler" />
+    <item
+        android:id="@+id/action_favorilerim"
+        android:icon="@drawable/favorilerim"
+        android:title="Favorilerim" />
+    <item
+        android:id="@+id/action_yorum"
+        android:icon="@drawable/yorum"
+        android:title="Yorumladiklarim" />
+    <item
+        android:id="@+id/action_hesabim"
+        android:icon="@drawable/hesabim"
+        android:title="Hesabım" />
+</menu>
